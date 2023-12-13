@@ -1,6 +1,6 @@
 # Data loading with Suspense
 
-More info about this example can be found [here](https://nextjs.org/learn/excel/data-fetching/suspense).
+More info about this example can be found [here](https://medium.com/@amirilovic/how-to-use-react-suspense-for-data-loading-4b68f9200c19).
 
 ## Getting Started
 
